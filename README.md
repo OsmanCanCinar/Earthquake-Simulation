@@ -1,5 +1,4 @@
 # Earthquake-Simulation
-SE 3360 FINAL PROJECT’S REPORT
 
 WHAT IS IT?
 Main purpose of this model is showing the certain elements that can increase and decrease the effects of an earthquake. To do that, I designed an environment that is like Izmir, Turkey which includes a sea, seashore, and a mountain. First element I want to show is properly deciding where to construct a building, choosing the suitable ground for foundations , and avoiding fault rupture zones. Next one is following the construction regulations and building a proper structure. Third, doing urban renewals and choosing to live in newer buildings to avoid decaying buildings. Last one is doing periodical restorations to the buildings. Those are the parameters that  I came across with.
